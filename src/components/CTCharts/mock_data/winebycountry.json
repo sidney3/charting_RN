@@ -1,0 +1,68 @@
+{
+  "Name": "Root",
+  "Cellared": 210,
+  "Children": 
+  [
+  {
+    "Name": "USA",
+    "Cellared": 120,
+    "Children": [
+      {
+        "Name": "California",
+        "Cellared": 60,
+        "Children": [
+          {"Name": "Napa County",
+          "Cellared": 30,
+          "Children": []},
+          {
+            "Name": "Sonoma County",
+            "Cellared": 20,
+            "Children": []
+          },
+          {"Name":"Central Valley",
+          "Cellared": 10,
+          "Children": []
+          }
+        ]
+      },
+      {
+        "Name": "Washington",
+        "Cellared": 60,
+        "Children": []
+      }
+    ]
+  },
+  {
+    "Name": "Belarus",
+    "Cellared": 80,
+    "Children": [
+      {
+        "Name": "Minsk",
+        "Cellared": 60,
+        "Children": []
+      },
+      {
+        "Name": "Gomel",
+        "Cellared": 20,
+        "Children": []
+      }
+    ]
+  },
+  {
+    "Name": "Bosnia",
+    "Cellared": 10,
+    "Children": [
+      {
+        "Name": "Tuzla",
+        "Cellared": 5,
+        "Children": []
+      },
+      {
+        "Name": "Zvornik",
+        "Cellared": 5,
+        "Children": []
+      }
+    ]
+  }
+]
+}
